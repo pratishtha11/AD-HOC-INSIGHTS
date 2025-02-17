@@ -57,6 +57,6 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 For any queries, feel free to reach out:
 **[Pratishtha]**  
-- [LinkedIn](www.linkedin.com/in/pratishtha-prajapati01)
+- [LinkedIn](https://www.linkedin.com/in/pratishtha-prajapati01)
 - [Email](pratishtha0011@gmail.com)
 
